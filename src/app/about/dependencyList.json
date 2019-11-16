@@ -7,7 +7,7 @@
     "repository": "git+https://github.com/angular/angular-cli.git",
     "author": "Angular Authors",
     "homepage": "https://github.com/angular/angular-cli",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 1,
@@ -17,7 +17,7 @@
     "repository": "git+https://github.com/angular/angular-cli.git",
     "author": "Angular Authors",
     "homepage": "https://github.com/angular/angular-cli",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "repository": "git+https://github.com/angular/angular-cli.git",
     "author": "Angular Authors",
     "homepage": "https://github.com/angular/angular-cli",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "repository": "git+https://github.com/angular/angular-cli.git",
     "author": "Angular Authors",
     "homepage": "https://github.com/angular/angular-cli",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "repository": "https://github.com/babel/babel/tree/master/packages/babel-core",
     "author": "Sebastian McKenzie",
     "homepage": "https://babeljs.io/",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "repository": "https://github.com/babel/babel/tree/master/packages/babel-preset-env",
     "author": "Henry Zhu",
     "homepage": "https://babeljs.io/",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "repository": "git+https://github.com/angular/angular-cli.git",
     "author": "Angular Authors",
     "homepage": "https://github.com/angular/angular-cli",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 8,
@@ -97,7 +97,7 @@
     "repository": "git+https://github.com/postcss/autoprefixer.git",
     "author": "Andrey Sitnik",
     "homepage": "https://github.com/postcss/autoprefixer#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "repository": "git+https://github.com/browserslist/browserslist.git",
     "author": "Andrey Sitnik",
     "homepage": "https://github.com/browserslist/browserslist#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "repository": "git+https://github.com/npm/cacache.git",
     "author": "Kat Marchán",
     "homepage": "https://github.com/npm/cacache#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 12,
@@ -127,7 +127,7 @@
     "repository": "git+https://github.com/ben-eb/caniuse-lite.git",
     "author": "Ben Briggs",
     "homepage": "https://github.com/ben-eb/caniuse-lite#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 13,
@@ -136,7 +136,7 @@
     "license": "ISC License (ISC)",
     "repository": "git+https://github.com/aackerman/circular-dependency-plugin.git",
     "homepage": "https://github.com/aackerman/circular-dependency-plugin#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 14,
@@ -146,7 +146,7 @@
     "repository": "git+https://github.com/jakubpawlowicz/clean-css.git",
     "author": "Jakub Pawlowicz",
     "homepage": "https://github.com/jakubpawlowicz/clean-css",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 15,
@@ -156,7 +156,7 @@
     "repository": "git+https://github.com/webpack-contrib/copy-webpack-plugin.git",
     "author": "Len Boyette",
     "homepage": "https://github.com/webpack-contrib/copy-webpack-plugin",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 16,
@@ -165,7 +165,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/zloirock/core-js.git",
     "homepage": "https://github.com/zloirock/core-js#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 17,
@@ -175,7 +175,7 @@
     "repository": "git+https://github.com/webpack-contrib/file-loader.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/webpack-contrib/file-loader",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 18,
@@ -184,7 +184,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/avajs/find-cache-dir.git",
     "homepage": "https://github.com/avajs/find-cache-dir#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 19,
@@ -204,7 +204,7 @@
     "repository": "git+https://github.com/webpack-contrib/istanbul-instrumenter-loader.git",
     "author": "Kir Belevich",
     "homepage": "https://github.com/webpack-contrib/istanbul-instrumenter-loader",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 21,
@@ -213,7 +213,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/facebook/jest.git",
     "homepage": "https://github.com/facebook/jest#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 22,
@@ -223,7 +223,7 @@
     "repository": "git://github.com/tschaub/karma-source-map-support.git",
     "author": "Tim Schaub",
     "homepage": "https://github.com/tschaub/karma-source-map-support",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 23,
@@ -233,7 +233,7 @@
     "repository": "git+https://github.com/less/less.js.git",
     "author": "Alexis Sellier",
     "homepage": "http://lesscss.org",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 24,
@@ -243,7 +243,7 @@
     "repository": "git+https://github.com/webpack-contrib/less-loader.git",
     "author": "Johannes Ewald @jhnns",
     "homepage": "https://github.com/webpack-contrib/less-loader",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 25,
@@ -253,7 +253,7 @@
     "repository": "git+ssh://git@github.com/xz64/license-webpack-plugin.git",
     "author": "S K",
     "homepage": "https://github.com/xz64/license-webpack-plugin#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 26,
@@ -263,7 +263,7 @@
     "repository": "git+https://github.com/webpack/loader-utils.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/webpack/loader-utils#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 27,
@@ -273,7 +273,7 @@
     "repository": "git+https://github.com/webpack-contrib/mini-css-extract-plugin.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/webpack-contrib/mini-css-extract-plugin",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 28,
@@ -293,7 +293,7 @@
     "repository": "git+https://github.com/sindresorhus/open.git",
     "author": "Sindre Sorhus",
     "homepage": "https://github.com/sindresorhus/open#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 30,
@@ -303,7 +303,7 @@
     "repository": "git://github.com/inikulin/parse5.git",
     "author": "Ivan Nikulin",
     "homepage": "https://github.com/inikulin/parse5",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 31,
@@ -313,7 +313,7 @@
     "repository": "git+https://github.com/postcss/postcss.git",
     "author": "Andrey Sitnik",
     "homepage": "https://postcss.org/",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 32,
@@ -323,7 +323,7 @@
     "repository": "git+https://github.com/postcss/postcss-import.git",
     "author": "Maxime Thirouin",
     "homepage": "https://github.com/postcss/postcss-import#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 33,
@@ -333,7 +333,7 @@
     "repository": "git+https://github.com/postcss/postcss-loader.git",
     "author": "Andrey Sitnik",
     "homepage": "https://github.com/postcss/postcss-loader#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 34,
@@ -343,7 +343,7 @@
     "repository": "git+https://github.com/webpack-contrib/raw-loader.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/webpack-contrib/raw-loader",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 35,
@@ -352,7 +352,7 @@
     "license": "MIT License (MIT)",
     "repository": "https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime",
     "author": "Ben Newman",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 36,
@@ -362,7 +362,7 @@
     "repository": "git+https://github.com/sass/dart-sass.git",
     "author": "Natalie Weizenbaum",
     "homepage": "https://github.com/sass/dart-sass",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 37,
@@ -372,7 +372,7 @@
     "repository": "git+https://github.com/webpack-contrib/sass-loader.git",
     "author": "J. Tangelder",
     "homepage": "https://github.com/webpack-contrib/sass-loader",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 38,
@@ -381,7 +381,7 @@
     "license": "ISC License (ISC)",
     "repository": "git+https://github.com/npm/node-semver.git",
     "homepage": "https://github.com/npm/node-semver#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 39,
@@ -401,7 +401,7 @@
     "repository": "git+https://github.com/webpack-contrib/source-map-loader.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/webpack-contrib/source-map-loader",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 41,
@@ -410,7 +410,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/evanw/node-source-map-support.git",
     "homepage": "https://github.com/evanw/node-source-map-support#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 42,
@@ -420,7 +420,7 @@
     "repository": "git+https://github.com/stephencookdev/speed-measure-webpack-plugin.git",
     "author": "Stephen Cook",
     "homepage": "https://github.com/stephencookdev/speed-measure-webpack-plugin#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 43,
@@ -430,7 +430,7 @@
     "repository": "git+https://github.com/webpack-contrib/style-loader.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/webpack-contrib/style-loader",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 44,
@@ -440,7 +440,7 @@
     "repository": "git://github.com/stylus/stylus.git",
     "author": "TJ Holowaychuk",
     "homepage": "https://github.com/stylus/stylus",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 45,
@@ -450,7 +450,7 @@
     "repository": "git+ssh://git@github.com/shama/stylus-loader.git",
     "author": "Kyle Robinson Young",
     "homepage": "https://github.com/shama/stylus-loader#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 46,
@@ -460,7 +460,7 @@
     "repository": "git+https://github.com/terser/terser.git",
     "author": "Mihai Bazon",
     "homepage": "https://terser.org",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 47,
@@ -470,7 +470,7 @@
     "repository": "git+https://github.com/webpack-contrib/terser-webpack-plugin.git",
     "author": "webpack Contrib Team",
     "homepage": "https://github.com/webpack-contrib/terser-webpack-plugin",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 48,
@@ -480,7 +480,7 @@
     "repository": "git://github.com/pkrumins/node-tree-kill.git",
     "author": "Peteris Krumins",
     "homepage": "https://github.com/pkrumins/node-tree-kill",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 49,
@@ -490,7 +490,7 @@
     "repository": "git+https://github.com/webpack/webpack.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/webpack/webpack",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 50,
@@ -500,7 +500,7 @@
     "repository": "git+https://github.com/webpack/webpack-dev-middleware.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/webpack/webpack-dev-middleware",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 51,
@@ -510,7 +510,7 @@
     "repository": "git+https://github.com/webpack/webpack-dev-server.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/webpack/webpack-dev-server#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 52,
@@ -520,7 +520,7 @@
     "repository": "git+https://github.com/survivejs/webpack-merge.git",
     "author": "Juho Vepsalainen",
     "homepage": "https://github.com/survivejs/webpack-merge",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 53,
@@ -530,7 +530,7 @@
     "repository": "git+https://github.com/webpack/webpack-sources.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/webpack/webpack-sources#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 54,
@@ -540,7 +540,7 @@
     "repository": "git+https://github.com/waysact/webpack-subresource-integrity.git",
     "author": "Julian Scheid",
     "homepage": "https://github.com/waysact/webpack-subresource-integrity#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 55,
@@ -550,7 +550,7 @@
     "repository": "git+https://github.com/GoogleChromeLabs/worker-plugin.git",
     "author": "The Chromium Authors",
     "homepage": "https://github.com/GoogleChromeLabs/worker-plugin#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 56,
@@ -570,7 +570,7 @@
     "repository": "git+https://github.com/angular/angular-cli.git",
     "author": "Angular Authors",
     "homepage": "https://github.com/angular/angular-cli",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 58,
@@ -600,7 +600,7 @@
     "repository": "git+https://github.com/angular/angular-cli.git",
     "author": "Angular Authors",
     "homepage": "https://github.com/angular/angular-cli",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 61,
@@ -608,7 +608,7 @@
     "version": "1.1.0",
     "license": "BSD 2-Clause \"Simplified\" License (BSD-2-Clause)",
     "repository": "https://github.com/yarnpkg/yarn/blob/master/packages/lockfile",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 62,
@@ -618,7 +618,7 @@
     "repository": "git+https://github.com/doowb/ansi-colors.git",
     "author": "Brian Woodward",
     "homepage": "https://github.com/doowb/ansi-colors",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 63,
@@ -628,7 +628,7 @@
     "repository": "git://github.com/visionmedia/debug.git",
     "author": "TJ Holowaychuk",
     "homepage": "https://github.com/visionmedia/debug#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 64,
@@ -648,7 +648,7 @@
     "repository": "git+https://github.com/SBoudrias/Inquirer.js.git",
     "author": "Simon Boudrias",
     "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 66,
@@ -658,7 +658,7 @@
     "repository": "git+https://github.com/npm/npm-package-arg.git",
     "author": "Isaac Z. Schlueter",
     "homepage": "https://github.com/npm/npm-package-arg",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 67,
@@ -668,7 +668,7 @@
     "repository": "git+https://github.com/npm/npm-pick-manifest.git",
     "author": "Kat Marchán",
     "homepage": "https://github.com/npm/npm-pick-manifest#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 68,
@@ -678,7 +678,7 @@
     "repository": "git+https://github.com/npm/pacote.git",
     "author": "Kat Marchán",
     "homepage": "https://github.com/npm/pacote#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 69,
@@ -688,7 +688,7 @@
     "repository": "git+https://github.com/npm/read-package-tree.git",
     "author": "Isaac Z. Schlueter",
     "homepage": "https://github.com/npm/read-package-tree",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 70,
@@ -698,7 +698,7 @@
     "repository": "git://github.com/isaacs/rimraf.git",
     "author": "Isaac Z. Schlueter",
     "homepage": "https://github.com/isaacs/rimraf#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 71,
@@ -708,7 +708,7 @@
     "repository": "git+https://github.com/blesh/symbol-observable.git",
     "author": "Ben Lesh",
     "homepage": "https://github.com/blesh/symbol-observable#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 72,
@@ -718,7 +718,7 @@
     "repository": "git+ssh://git@github.com/peaksandpies/universal-analytics.git",
     "author": "Jörg Tillmann",
     "homepage": "https://github.com/peaksandpies/universal-analytics#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 73,
@@ -756,7 +756,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/angular/angular.git",
     "homepage": "https://github.com/angular/angular/tree/master/packages/compiler-cli",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 77,
@@ -766,7 +766,7 @@
     "repository": "git+https://github.com/petebacondarwin/node-canonical-path.git",
     "author": "Pete Bacon Darwin",
     "homepage": "https://github.com/petebacondarwin/node-canonical-path#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 78,
@@ -776,7 +776,7 @@
     "repository": "git+https://github.com/paulmillr/chokidar.git",
     "author": "Paul Miller",
     "homepage": "https://github.com/paulmillr/chokidar",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 79,
@@ -786,7 +786,7 @@
     "repository": "git://github.com/thlorenz/convert-source-map.git",
     "author": "Thorsten Lorenz",
     "homepage": "https://github.com/thlorenz/convert-source-map",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 80,
@@ -796,7 +796,7 @@
     "repository": "git://github.com/jriecken/dependency-graph.git",
     "author": "Jim Riecken",
     "homepage": "https://github.com/jriecken/dependency-graph#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 81,
@@ -826,7 +826,7 @@
     "repository": "git+https://github.com/rbuckton/reflect-metadata.git",
     "author": "Ron Buckton",
     "homepage": "http://rbuckton.github.io/reflect-metadata",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 84,
@@ -836,7 +836,7 @@
     "repository": "git+ssh://git@github.com/mozilla/source-map.git",
     "author": "Nick Fitzgerald",
     "homepage": "https://github.com/mozilla/source-map",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 85,
@@ -845,7 +845,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/yargs/yargs.git",
     "homepage": "https://yargs.js.org/",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 86,
@@ -875,7 +875,7 @@
     "repository": "git+https://github.com/angular/angular.git",
     "author": "angular",
     "homepage": "https://github.com/angular/angular#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 89,
@@ -944,7 +944,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
     "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 96,
@@ -953,7 +953,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
     "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 97,
@@ -962,7 +962,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
     "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 98,
@@ -972,7 +972,7 @@
     "repository": "git+https://github.com/mgechev/codelyzer.git",
     "author": "Minko Gechev",
     "homepage": "https://github.com/mgechev/codelyzer#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 99,
@@ -982,7 +982,7 @@
     "repository": "git+https://github.com/inxilpro/node-app-root-path.git",
     "author": "Chris Morrell",
     "homepage": "https://github.com/inxilpro/node-app-root-path",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 100,
@@ -992,7 +992,7 @@
     "repository": "git+https://github.com/A11yance/aria-query.git",
     "author": "Jesse Beach",
     "homepage": "https://github.com/A11yance/aria-query#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 101,
@@ -1002,7 +1002,7 @@
     "repository": "git+https://github.com/A11yance/axobject-query.git",
     "author": "Jesse Beach",
     "homepage": "https://github.com/A11yance/axobject-query#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 102,
@@ -1012,7 +1012,7 @@
     "repository": "git+https://github.com/css-modules/css-selector-tokenizer.git",
     "author": "Tobias Koppers @sokra",
     "homepage": "https://github.com/css-modules/css-selector-tokenizer",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 103,
@@ -1022,7 +1022,7 @@
     "repository": "git://github.com/chrisdickinson/cssauron.git",
     "author": "Chris Dickinson",
     "homepage": "https://github.com/chrisdickinson/cssauron#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 104,
@@ -1032,7 +1032,7 @@
     "repository": "git+https://github.com/tad-lispy/node-damerau-levenshtein.git",
     "author": "The Spanish Inquisition",
     "homepage": "https://github.com/tad-lispy/node-damerau-levenshtein#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 105,
@@ -1042,7 +1042,7 @@
     "repository": "git+https://github.com/mgechev/semver-dsl.git",
     "author": "Minko Gechev",
     "homepage": "https://github.com/mgechev/semver-dsl#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 106,
@@ -1052,7 +1052,7 @@
     "repository": "git+ssh://git@github.com/mozilla/source-map.git",
     "author": "Nick Fitzgerald",
     "homepage": "https://github.com/mozilla/source-map",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 107,
@@ -1062,7 +1062,7 @@
     "repository": "git+https://github.com/alexei/sprintf.js.git",
     "author": "Alexandru Mărășteanu",
     "homepage": "https://github.com/alexei/sprintf.js#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 108,
@@ -1071,7 +1071,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/jasmine/jasmine.git",
     "homepage": "https://jasmine.github.io",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 109,
@@ -1081,7 +1081,7 @@
     "repository": "git+https://github.com/bcaudan/jasmine-spec-reporter.git",
     "author": "Bastien Caudan",
     "homepage": "https://github.com/bcaudan/jasmine-spec-reporter",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 110,
@@ -1091,7 +1091,7 @@
     "repository": "git+ssh://git@github.com/Marak/colors.js.git",
     "author": "Marak Squires",
     "homepage": "https://github.com/Marak/colors.js",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 111,
@@ -1101,7 +1101,7 @@
     "repository": "git://github.com/karma-runner/karma.git",
     "author": "Vojta Jína",
     "homepage": "http://karma-runner.github.io/",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 112,
@@ -1111,7 +1111,7 @@
     "repository": "git://github.com/petkaantonov/bluebird.git",
     "author": "Petka Antonov",
     "homepage": "https://github.com/petkaantonov/bluebird",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 113,
@@ -1120,7 +1120,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/expressjs/body-parser.git",
     "homepage": "https://github.com/expressjs/body-parser#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 114,
@@ -1130,7 +1130,7 @@
     "repository": "git+https://github.com/micromatch/braces.git",
     "author": "Jon Schlinkert",
     "homepage": "https://github.com/micromatch/braces",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 115,
@@ -1140,7 +1140,7 @@
     "repository": "git+https://github.com/paulmillr/chokidar.git",
     "author": "Paul Miller",
     "homepage": "https://github.com/paulmillr/chokidar",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 116,
@@ -1150,7 +1150,7 @@
     "repository": "git+https://github.com/senchalabs/connect.git",
     "author": "TJ Holowaychuk",
     "homepage": "https://github.com/senchalabs/connect#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 117,
@@ -1159,7 +1159,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/zloirock/core-js.git",
     "homepage": "https://github.com/zloirock/core-js#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 118,
@@ -1169,7 +1169,7 @@
     "repository": "git://github.com/vojtajina/node-di.git",
     "author": "Vojta Jina",
     "homepage": "https://github.com/vojtajina/node-di#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 119,
@@ -1179,7 +1179,7 @@
     "repository": "git://github.com/webmodules/dom-serialize.git",
     "author": "Nathan Rajlich",
     "homepage": "https://github.com/webmodules/dom-serialize",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 120,
@@ -1189,7 +1189,7 @@
     "repository": "git+https://github.com/WebReflection/flatted.git",
     "author": "Andrea Giammarchi",
     "homepage": "https://github.com/WebReflection/flatted#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 121,
@@ -1198,7 +1198,7 @@
     "license": "ISC License (ISC)",
     "repository": "git+https://github.com/isaacs/node-graceful-fs.git",
     "homepage": "https://github.com/isaacs/node-graceful-fs#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 122,
@@ -1208,7 +1208,7 @@
     "repository": "git+https://github.com/http-party/node-http-proxy.git",
     "author": "Charlie Robbins",
     "homepage": "https://github.com/http-party/node-http-proxy#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 123,
@@ -1217,7 +1217,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/gjtorikian/isBinaryFile.git",
     "homepage": "https://github.com/gjtorikian/isBinaryFile#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 124,
@@ -1237,7 +1237,7 @@
     "repository": "git+https://github.com/log4js-node/log4js-node.git",
     "author": "Gareth Jones",
     "homepage": "https://log4js-node.github.io/log4js-node/",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 126,
@@ -1247,7 +1247,7 @@
     "repository": "git+https://github.com/broofa/node-mime.git",
     "author": "Robert Kieffer",
     "homepage": "https://github.com/broofa/node-mime#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 127,
@@ -1267,7 +1267,7 @@
     "repository": "git://github.com/franck34/qjobs.git",
     "author": "Franck TABARY",
     "homepage": "https://github.com/franck34/qjobs#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 129,
@@ -1277,7 +1277,7 @@
     "repository": "git+https://github.com/jshttp/range-parser.git",
     "author": "TJ Holowaychuk",
     "homepage": "https://github.com/jshttp/range-parser#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 130,
@@ -1306,7 +1306,7 @@
     "license": "MIT License (MIT)",
     "repository": "git://github.com/socketio/socket.io.git",
     "homepage": "https://github.com/socketio/socket.io#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 133,
@@ -1316,7 +1316,7 @@
     "repository": "git+ssh://git@github.com/mozilla/source-map.git",
     "author": "Nick Fitzgerald",
     "homepage": "https://github.com/mozilla/source-map",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 134,
@@ -1326,7 +1326,7 @@
     "repository": "git+https://github.com/raszi/node-tmp.git",
     "author": "KARASZI István",
     "homepage": "http://github.com/raszi/node-tmp",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 135,
@@ -1336,7 +1336,7 @@
     "repository": "git+ssh://git@github.com/3rd-Eden/useragent.git",
     "author": "Arnout Kazemier",
     "homepage": "https://github.com/3rd-Eden/useragent#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 136,
@@ -1346,7 +1346,7 @@
     "repository": "git://github.com/karma-runner/karma-chrome-launcher.git",
     "author": "Vojta Jina",
     "homepage": "https://github.com/karma-runner/karma-chrome-launcher#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 137,
@@ -1356,7 +1356,7 @@
     "repository": "git+https://github.com/sindresorhus/fs-access.git",
     "author": "Sindre Sorhus",
     "homepage": "https://github.com/sindresorhus/fs-access#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 138,
@@ -1366,7 +1366,7 @@
     "repository": "git://github.com/isaacs/node-which.git",
     "author": "Isaac Z. Schlueter",
     "homepage": "https://github.com/isaacs/node-which#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 139,
@@ -1376,7 +1376,7 @@
     "repository": "git+https://github.com/mattlewis92/karma-coverage-istanbul-reporter.git",
     "author": "Matt Lewis",
     "homepage": "https://github.com/mattlewis92/karma-coverage-istanbul-reporter#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 140,
@@ -1386,7 +1386,7 @@
     "repository": "git+ssh://git@github.com/istanbuljs/istanbuljs.git",
     "author": "Krishnan Anantheswaran",
     "homepage": "https://istanbul.js.org/",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 141,
@@ -1396,7 +1396,7 @@
     "repository": "git://github.com/karma-runner/karma-jasmine.git",
     "author": "Vojta Jina",
     "homepage": "https://github.com/karma-runner/karma-jasmine#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 142,
@@ -1405,7 +1405,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/dfederm/karma-jasmine-html-reporter.git",
     "homepage": "https://github.com/dfederm/karma-jasmine-html-reporter#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 143,
@@ -1415,7 +1415,7 @@
     "repository": "git+https://github.com/morficus/license-ls.git",
     "author": "Maurice Williams",
     "homepage": "https://github.com/morficus/license-ls#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 144,
@@ -1425,7 +1425,7 @@
     "repository": "git+ssh://git@github.com/moxystudio/node-cross-spawn.git",
     "author": "André Cruz",
     "homepage": "https://github.com/moxystudio/node-cross-spawn",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 145,
@@ -1435,7 +1435,7 @@
     "repository": "git+https://github.com/zemirco/json2csv.git",
     "author": "Mirco Zeiss",
     "homepage": "https://github.com/zemirco/json2csv#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 146,
@@ -1445,7 +1445,7 @@
     "repository": "git://github.com/davidcalhoun/jstoxml.git",
     "author": "David Calhoun",
     "homepage": "http://github.com/davidcalhoun/jstoxml",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 147,
@@ -1455,7 +1455,7 @@
     "repository": "git+https://github.com/npm/libnpm.git",
     "author": "Kat Marchán",
     "homepage": "https://github.com/npm/libnpm#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 148,
@@ -1465,7 +1465,7 @@
     "repository": "git+https://github.com/sindresorhus/ora.git",
     "author": "Sindre Sorhus",
     "homepage": "https://github.com/sindresorhus/ora#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 149,
@@ -1475,7 +1475,7 @@
     "repository": "git+https://github.com/jslicense/spdx-expression-parse.js.git",
     "author": "Kyle E. Mitchell",
     "homepage": "https://github.com/jslicense/spdx-expression-parse.js#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 150,
@@ -1485,7 +1485,7 @@
     "repository": "git+https://github.com/sindresorhus/spdx-license-list.git",
     "author": "Sindre Sorhus",
     "homepage": "https://github.com/sindresorhus/spdx-license-list#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 151,
@@ -1495,7 +1495,7 @@
     "repository": "git+https://github.com/gajus/table.git",
     "author": "Gajus Kuizinas",
     "homepage": "https://github.com/gajus/table#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 152,
@@ -1504,7 +1504,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/yargs/yargs.git",
     "homepage": "https://yargs.js.org/",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 153,
@@ -1716,7 +1716,7 @@
     "repository": "git://github.com/TypeStrong/ts-node.git",
     "author": "Blake Embrey",
     "homepage": "https://github.com/TypeStrong/ts-node",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 175,
@@ -1735,7 +1735,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/LinusU/buffer-from.git",
     "homepage": "https://github.com/LinusU/buffer-from#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 177,
@@ -1744,7 +1744,7 @@
     "license": "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)",
     "repository": "git://github.com/kpdecker/jsdiff.git",
     "homepage": "https://github.com/kpdecker/jsdiff#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 178,
@@ -1754,7 +1754,7 @@
     "repository": "git://github.com/JsCommunity/make-error.git",
     "author": "Julien Fontanet",
     "homepage": "https://github.com/JsCommunity/make-error",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 179,
@@ -1764,7 +1764,7 @@
     "repository": "git+https://github.com/substack/node-mkdirp.git",
     "author": "James Halliday",
     "homepage": "https://github.com/substack/node-mkdirp#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 180,
@@ -1774,7 +1774,7 @@
     "repository": "git+https://github.com/sindresorhus/yn.git",
     "author": "Sindre Sorhus",
     "homepage": "https://github.com/sindresorhus/yn#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 181,
@@ -1793,7 +1793,7 @@
     "license": "Apache License 2.0 (Apache-2.0)",
     "repository": "git+https://github.com/palantir/tslint.git",
     "homepage": "https://palantir.github.io/tslint",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 183,
@@ -1803,7 +1803,7 @@
     "repository": "https://github.com/babel/babel/tree/master/packages/babel-code-frame",
     "author": "Sebastian McKenzie",
     "homepage": "https://babeljs.io/",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 184,
@@ -1813,7 +1813,7 @@
     "repository": "git+https://github.com/sindresorhus/builtin-modules.git",
     "author": "Sindre Sorhus",
     "homepage": "https://github.com/sindresorhus/builtin-modules#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 185,
@@ -1822,7 +1822,7 @@
     "license": "MIT License (MIT)",
     "repository": "git+https://github.com/chalk/chalk.git",
     "homepage": "https://github.com/chalk/chalk#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 186,
@@ -1832,7 +1832,7 @@
     "repository": "git+https://github.com/tj/commander.js.git",
     "author": "TJ Holowaychuk",
     "homepage": "https://github.com/tj/commander.js#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 187,
@@ -1842,7 +1842,7 @@
     "repository": "git+https://github.com/nodeca/js-yaml.git",
     "author": "Vladimir Zapparov",
     "homepage": "https://github.com/nodeca/js-yaml",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 188,
@@ -1852,7 +1852,7 @@
     "repository": "git://github.com/browserify/resolve.git",
     "author": "James Halliday",
     "homepage": "https://github.com/browserify/resolve#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 189,
@@ -1861,7 +1861,7 @@
     "license": "ISC License (ISC)",
     "repository": "git+https://github.com/npm/node-semver.git",
     "homepage": "https://github.com/npm/node-semver#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 190,
@@ -1871,7 +1871,7 @@
     "repository": "git+https://github.com/ajafff/tsutils.git",
     "author": "Klaus Meinhardt",
     "homepage": "https://github.com/ajafff/tsutils#readme",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 191,
@@ -1881,7 +1881,7 @@
     "repository": "git+https://github.com/Microsoft/TypeScript.git",
     "author": "Microsoft Corp.",
     "homepage": "https://www.typescriptlang.org/",
-    "dependencyLevel": "production"
+    "dependencyLevel": "development"
   },
   {
     "id": 192,

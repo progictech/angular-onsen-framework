@@ -17,9 +17,9 @@ export class AboutComponent implements OnInit {
   ngOnInit() {
     this.copyrightYear = new Date().getFullYear();
     this.dependecyList = dependecyData;
-    this.dependecyList = this.dependecyList.filter(value =>{
-      return (value.name) && (value.author);
-    });
+    this.dependecyList = this.dependecyList.filter(value => {
+        return (value.name) && (value.author);
+      });
   }
 
 }
