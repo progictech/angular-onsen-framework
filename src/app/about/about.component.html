@@ -1,0 +1,34 @@
+<ons-page id="about">
+
+  <div class="page__background"></div>
+  <div class="page__content">
+    <ons-card id="about-us-content">
+      <img src="assets/img/logo.png">
+      <div class="content">
+        Copyright © {{copyrightYear}} <br/>
+        This app is designed by <a href="{{progicUrl}}">PROGIC Team</a>
+      </div>
+    </ons-card>
+    <ons-list>
+      <ons-list-header>Developer</ons-list-header>
+      <ons-list-item>
+        <div class="left">
+          <img class="list-item__thumbnail" src="http://placekitten.com/g/40/40">
+        </div>
+        <div class="center">
+          <span class="list-item__title">Cutest kitty</span><span class="list-item__subtitle">On the Internet</span>
+        </div>
+      </ons-list-item>
+    </ons-list>
+    <br />
+    <ons-list>
+      <ons-list-header>Open Source Libraries</ons-list-header>
+      <ons-list-item *onsLazyRepeat="let data of dependecyList; let i = index">
+        <div class="center">
+          <span class="list-item__title">{{data.name}}</span>
+          <span class="list-item__subtitle">Created By {{data.author}}</span>
+        </div>
+      </ons-list-item>
+    </ons-list>
+  </div>
+</ons-page>

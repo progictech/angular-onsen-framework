@@ -1,0 +1,8 @@
+<ons-list>
+  <ons-list-header>Menu</ons-list-header>
+  <ons-list-item modifier="longdivider" tappable *ngFor="let tab of tabs" [routerLink]="tab.path">
+    <div (click)="menuHeader.close()">
+    {{tab.label}}
+    </div>
+  </ons-list-item>
+</ons-list>

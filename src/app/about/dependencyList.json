@@ -1,0 +1,1896 @@
+[
+  {
+    "id": 0,
+    "name": "@angular-devkit/build-angular",
+    "version": "0.803.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 1,
+    "name": "@angular-devkit/architect",
+    "version": "0.803.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 2,
+    "name": "@angular-devkit/build-optimizer",
+    "version": "0.803.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 3,
+    "name": "@angular-devkit/build-webpack",
+    "version": "0.803.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 4,
+    "name": "@angular-devkit/core",
+    "version": "8.3.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 5,
+    "name": "@babel/core",
+    "version": "7.5.5",
+    "license": "MIT License (MIT)",
+    "repository": "https://github.com/babel/babel/tree/master/packages/babel-core",
+    "author": "Sebastian McKenzie",
+    "homepage": "https://babeljs.io/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 6,
+    "name": "@babel/preset-env",
+    "version": "7.5.5",
+    "license": "MIT License (MIT)",
+    "repository": "https://github.com/babel/babel/tree/master/packages/babel-preset-env",
+    "author": "Henry Zhu",
+    "homepage": "https://babeljs.io/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 7,
+    "name": "@ngtools/webpack",
+    "version": "8.3.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 8,
+    "name": "ajv",
+    "version": "6.10.2",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/epoberezkin/ajv.git",
+    "author": "Evgeny Poberezkin",
+    "homepage": "https://github.com/epoberezkin/ajv",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 9,
+    "name": "autoprefixer",
+    "version": "9.6.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/postcss/autoprefixer.git",
+    "author": "Andrey Sitnik",
+    "homepage": "https://github.com/postcss/autoprefixer#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 10,
+    "name": "browserslist",
+    "version": "4.6.6",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/browserslist/browserslist.git",
+    "author": "Andrey Sitnik",
+    "homepage": "https://github.com/browserslist/browserslist#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 11,
+    "name": "cacache",
+    "version": "12.0.2",
+    "license": "ISC License (ISC)",
+    "repository": "git+https://github.com/npm/cacache.git",
+    "author": "Kat Marchán",
+    "homepage": "https://github.com/npm/cacache#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 12,
+    "name": "caniuse-lite",
+    "version": "1.0.30000989",
+    "license": "Creative Commons Attribution 4.0 International (CC-BY-4.0)",
+    "repository": "git+https://github.com/ben-eb/caniuse-lite.git",
+    "author": "Ben Briggs",
+    "homepage": "https://github.com/ben-eb/caniuse-lite#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 13,
+    "name": "circular-dependency-plugin",
+    "version": "5.2.0",
+    "license": "ISC License (ISC)",
+    "repository": "git+https://github.com/aackerman/circular-dependency-plugin.git",
+    "homepage": "https://github.com/aackerman/circular-dependency-plugin#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 14,
+    "name": "clean-css",
+    "version": "4.2.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/jakubpawlowicz/clean-css.git",
+    "author": "Jakub Pawlowicz",
+    "homepage": "https://github.com/jakubpawlowicz/clean-css",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 15,
+    "name": "copy-webpack-plugin",
+    "version": "5.0.4",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack-contrib/copy-webpack-plugin.git",
+    "author": "Len Boyette",
+    "homepage": "https://github.com/webpack-contrib/copy-webpack-plugin",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 16,
+    "name": "core-js",
+    "version": "3.2.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/zloirock/core-js.git",
+    "homepage": "https://github.com/zloirock/core-js#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 17,
+    "name": "file-loader",
+    "version": "4.2.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack-contrib/file-loader.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/webpack-contrib/file-loader",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 18,
+    "name": "find-cache-dir",
+    "version": "3.0.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/avajs/find-cache-dir.git",
+    "homepage": "https://github.com/avajs/find-cache-dir#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 19,
+    "name": "glob",
+    "version": "7.1.4",
+    "license": "ISC License (ISC)",
+    "repository": "git://github.com/isaacs/node-glob.git",
+    "author": "Isaac Z. Schlueter",
+    "homepage": "https://github.com/isaacs/node-glob#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 20,
+    "name": "istanbul-instrumenter-loader",
+    "version": "3.0.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack-contrib/istanbul-instrumenter-loader.git",
+    "author": "Kir Belevich",
+    "homepage": "https://github.com/webpack-contrib/istanbul-instrumenter-loader",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 21,
+    "name": "jest-worker",
+    "version": "24.9.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/facebook/jest.git",
+    "homepage": "https://github.com/facebook/jest#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 22,
+    "name": "karma-source-map-support",
+    "version": "1.4.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/tschaub/karma-source-map-support.git",
+    "author": "Tim Schaub",
+    "homepage": "https://github.com/tschaub/karma-source-map-support",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 23,
+    "name": "less",
+    "version": "3.9.0",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/less/less.js.git",
+    "author": "Alexis Sellier",
+    "homepage": "http://lesscss.org",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 24,
+    "name": "less-loader",
+    "version": "5.0.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack-contrib/less-loader.git",
+    "author": "Johannes Ewald @jhnns",
+    "homepage": "https://github.com/webpack-contrib/less-loader",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 25,
+    "name": "license-webpack-plugin",
+    "version": "2.1.2",
+    "license": "ISC License (ISC)",
+    "repository": "git+ssh://git@github.com/xz64/license-webpack-plugin.git",
+    "author": "S K",
+    "homepage": "https://github.com/xz64/license-webpack-plugin#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 26,
+    "name": "loader-utils",
+    "version": "1.2.3",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack/loader-utils.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/webpack/loader-utils#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 27,
+    "name": "mini-css-extract-plugin",
+    "version": "0.8.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack-contrib/mini-css-extract-plugin.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/webpack-contrib/mini-css-extract-plugin",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 28,
+    "name": "minimatch",
+    "version": "3.0.4",
+    "license": "ISC License (ISC)",
+    "repository": "git://github.com/isaacs/minimatch.git",
+    "author": "Isaac Z. Schlueter",
+    "homepage": "https://github.com/isaacs/minimatch#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 29,
+    "name": "open",
+    "version": "6.4.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/sindresorhus/open.git",
+    "author": "Sindre Sorhus",
+    "homepage": "https://github.com/sindresorhus/open#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 30,
+    "name": "parse5",
+    "version": "4.0.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/inikulin/parse5.git",
+    "author": "Ivan Nikulin",
+    "homepage": "https://github.com/inikulin/parse5",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 31,
+    "name": "postcss",
+    "version": "7.0.17",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/postcss/postcss.git",
+    "author": "Andrey Sitnik",
+    "homepage": "https://postcss.org/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 32,
+    "name": "postcss-import",
+    "version": "12.0.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/postcss/postcss-import.git",
+    "author": "Maxime Thirouin",
+    "homepage": "https://github.com/postcss/postcss-import#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 33,
+    "name": "postcss-loader",
+    "version": "3.0.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/postcss/postcss-loader.git",
+    "author": "Andrey Sitnik",
+    "homepage": "https://github.com/postcss/postcss-loader#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 34,
+    "name": "raw-loader",
+    "version": "3.1.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack-contrib/raw-loader.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/webpack-contrib/raw-loader",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 35,
+    "name": "regenerator-runtime",
+    "version": "0.13.3",
+    "license": "MIT License (MIT)",
+    "repository": "https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime",
+    "author": "Ben Newman",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 36,
+    "name": "sass",
+    "version": "1.22.9",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/sass/dart-sass.git",
+    "author": "Natalie Weizenbaum",
+    "homepage": "https://github.com/sass/dart-sass",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 37,
+    "name": "sass-loader",
+    "version": "7.2.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack-contrib/sass-loader.git",
+    "author": "J. Tangelder",
+    "homepage": "https://github.com/webpack-contrib/sass-loader",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 38,
+    "name": "semver",
+    "version": "6.3.0",
+    "license": "ISC License (ISC)",
+    "repository": "git+https://github.com/npm/node-semver.git",
+    "homepage": "https://github.com/npm/node-semver#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 39,
+    "name": "source-map",
+    "version": "0.7.3",
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)",
+    "repository": "git+ssh://git@github.com/mozilla/source-map.git",
+    "author": "Nick Fitzgerald",
+    "homepage": "https://github.com/mozilla/source-map",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 40,
+    "name": "source-map-loader",
+    "version": "0.2.4",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack-contrib/source-map-loader.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/webpack-contrib/source-map-loader",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 41,
+    "name": "source-map-support",
+    "version": "0.5.13",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/evanw/node-source-map-support.git",
+    "homepage": "https://github.com/evanw/node-source-map-support#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 42,
+    "name": "speed-measure-webpack-plugin",
+    "version": "1.3.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/stephencookdev/speed-measure-webpack-plugin.git",
+    "author": "Stephen Cook",
+    "homepage": "https://github.com/stephencookdev/speed-measure-webpack-plugin#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 43,
+    "name": "style-loader",
+    "version": "1.0.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack-contrib/style-loader.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/webpack-contrib/style-loader",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 44,
+    "name": "stylus",
+    "version": "0.54.5",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/stylus/stylus.git",
+    "author": "TJ Holowaychuk",
+    "homepage": "https://github.com/stylus/stylus",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 45,
+    "name": "stylus-loader",
+    "version": "3.0.2",
+    "license": "MIT License (MIT)",
+    "repository": "git+ssh://git@github.com/shama/stylus-loader.git",
+    "author": "Kyle Robinson Young",
+    "homepage": "https://github.com/shama/stylus-loader#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 46,
+    "name": "terser",
+    "version": "4.3.9",
+    "license": "BSD 2-Clause \"Simplified\" License (BSD-2-Clause)",
+    "repository": "git+https://github.com/terser/terser.git",
+    "author": "Mihai Bazon",
+    "homepage": "https://terser.org",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 47,
+    "name": "terser-webpack-plugin",
+    "version": "1.4.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack-contrib/terser-webpack-plugin.git",
+    "author": "webpack Contrib Team",
+    "homepage": "https://github.com/webpack-contrib/terser-webpack-plugin",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 48,
+    "name": "tree-kill",
+    "version": "1.2.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/pkrumins/node-tree-kill.git",
+    "author": "Peteris Krumins",
+    "homepage": "https://github.com/pkrumins/node-tree-kill",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 49,
+    "name": "webpack",
+    "version": "4.39.2",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack/webpack.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/webpack/webpack",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 50,
+    "name": "webpack-dev-middleware",
+    "version": "3.7.2",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack/webpack-dev-middleware.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/webpack/webpack-dev-middleware",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 51,
+    "name": "webpack-dev-server",
+    "version": "3.9.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack/webpack-dev-server.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/webpack/webpack-dev-server#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 52,
+    "name": "webpack-merge",
+    "version": "4.2.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/survivejs/webpack-merge.git",
+    "author": "Juho Vepsalainen",
+    "homepage": "https://github.com/survivejs/webpack-merge",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 53,
+    "name": "webpack-sources",
+    "version": "1.4.3",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/webpack/webpack-sources.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/webpack/webpack-sources#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 54,
+    "name": "webpack-subresource-integrity",
+    "version": "1.1.0-rc.6",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/waysact/webpack-subresource-integrity.git",
+    "author": "Julian Scheid",
+    "homepage": "https://github.com/waysact/webpack-subresource-integrity#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 55,
+    "name": "worker-plugin",
+    "version": "3.2.0",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/GoogleChromeLabs/worker-plugin.git",
+    "author": "The Chromium Authors",
+    "homepage": "https://github.com/GoogleChromeLabs/worker-plugin#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 56,
+    "name": "@angular/animations",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "author": "angular",
+    "homepage": "https://github.com/angular/angular#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 57,
+    "name": "@angular/cli",
+    "version": "8.3.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 58,
+    "name": "@angular-devkit/schematics",
+    "version": "8.3.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 59,
+    "name": "@schematics/angular",
+    "version": "8.3.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 60,
+    "name": "@schematics/update",
+    "version": "0.803.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 61,
+    "name": "@yarnpkg/lockfile",
+    "version": "1.1.0",
+    "license": "BSD 2-Clause \"Simplified\" License (BSD-2-Clause)",
+    "repository": "https://github.com/yarnpkg/yarn/blob/master/packages/lockfile",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 62,
+    "name": "ansi-colors",
+    "version": "4.1.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/doowb/ansi-colors.git",
+    "author": "Brian Woodward",
+    "homepage": "https://github.com/doowb/ansi-colors",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 63,
+    "name": "debug",
+    "version": "4.1.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/visionmedia/debug.git",
+    "author": "TJ Holowaychuk",
+    "homepage": "https://github.com/visionmedia/debug#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 64,
+    "name": "ini",
+    "version": "1.3.5",
+    "license": "ISC License (ISC)",
+    "repository": "git://github.com/isaacs/ini.git",
+    "author": "Isaac Z. Schlueter",
+    "homepage": "https://github.com/isaacs/ini#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 65,
+    "name": "inquirer",
+    "version": "6.5.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/SBoudrias/Inquirer.js.git",
+    "author": "Simon Boudrias",
+    "homepage": "https://github.com/SBoudrias/Inquirer.js#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 66,
+    "name": "npm-package-arg",
+    "version": "6.1.0",
+    "license": "ISC License (ISC)",
+    "repository": "git+https://github.com/npm/npm-package-arg.git",
+    "author": "Isaac Z. Schlueter",
+    "homepage": "https://github.com/npm/npm-package-arg",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 67,
+    "name": "npm-pick-manifest",
+    "version": "3.0.2",
+    "license": "ISC License (ISC)",
+    "repository": "git+https://github.com/npm/npm-pick-manifest.git",
+    "author": "Kat Marchán",
+    "homepage": "https://github.com/npm/npm-pick-manifest#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 68,
+    "name": "pacote",
+    "version": "9.5.5",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/npm/pacote.git",
+    "author": "Kat Marchán",
+    "homepage": "https://github.com/npm/pacote#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 69,
+    "name": "read-package-tree",
+    "version": "5.3.1",
+    "license": "ISC License (ISC)",
+    "repository": "git+https://github.com/npm/read-package-tree.git",
+    "author": "Isaac Z. Schlueter",
+    "homepage": "https://github.com/npm/read-package-tree",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 70,
+    "name": "rimraf",
+    "version": "3.0.0",
+    "license": "ISC License (ISC)",
+    "repository": "git://github.com/isaacs/rimraf.git",
+    "author": "Isaac Z. Schlueter",
+    "homepage": "https://github.com/isaacs/rimraf#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 71,
+    "name": "symbol-observable",
+    "version": "1.2.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/blesh/symbol-observable.git",
+    "author": "Ben Lesh",
+    "homepage": "https://github.com/blesh/symbol-observable#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 72,
+    "name": "universal-analytics",
+    "version": "0.4.20",
+    "license": "MIT License (MIT)",
+    "repository": "git+ssh://git@github.com/peaksandpies/universal-analytics.git",
+    "author": "Jörg Tillmann",
+    "homepage": "https://github.com/peaksandpies/universal-analytics#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 73,
+    "name": "uuid",
+    "version": "3.3.3",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/kelektiv/node-uuid.git",
+    "homepage": "https://github.com/kelektiv/node-uuid#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 74,
+    "name": "@angular/common",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "author": "angular",
+    "homepage": "https://github.com/angular/angular#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 75,
+    "name": "@angular/compiler",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "author": "angular",
+    "homepage": "https://github.com/angular/angular#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 76,
+    "name": "@angular/compiler-cli",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "homepage": "https://github.com/angular/angular/tree/master/packages/compiler-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 77,
+    "name": "canonical-path",
+    "version": "1.0.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/petebacondarwin/node-canonical-path.git",
+    "author": "Pete Bacon Darwin",
+    "homepage": "https://github.com/petebacondarwin/node-canonical-path#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 78,
+    "name": "chokidar",
+    "version": "2.1.8",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/paulmillr/chokidar.git",
+    "author": "Paul Miller",
+    "homepage": "https://github.com/paulmillr/chokidar",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 79,
+    "name": "convert-source-map",
+    "version": "1.7.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/thlorenz/convert-source-map.git",
+    "author": "Thorsten Lorenz",
+    "homepage": "https://github.com/thlorenz/convert-source-map",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 80,
+    "name": "dependency-graph",
+    "version": "0.7.2",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/jriecken/dependency-graph.git",
+    "author": "Jim Riecken",
+    "homepage": "https://github.com/jriecken/dependency-graph#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 81,
+    "name": "magic-string",
+    "version": "0.25.3",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/rich-harris/magic-string.git",
+    "author": "Rich Harris",
+    "homepage": "https://github.com/rich-harris/magic-string#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 82,
+    "name": "minimist",
+    "version": "1.2.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/substack/minimist.git",
+    "author": "James Halliday",
+    "homepage": "https://github.com/substack/minimist",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 83,
+    "name": "reflect-metadata",
+    "version": "0.1.13",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/rbuckton/reflect-metadata.git",
+    "author": "Ron Buckton",
+    "homepage": "http://rbuckton.github.io/reflect-metadata",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 84,
+    "name": "source-map",
+    "version": "0.6.1",
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)",
+    "repository": "git+ssh://git@github.com/mozilla/source-map.git",
+    "author": "Nick Fitzgerald",
+    "homepage": "https://github.com/mozilla/source-map",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 85,
+    "name": "yargs",
+    "version": "13.1.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/yargs/yargs.git",
+    "homepage": "https://yargs.js.org/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 86,
+    "name": "@angular/core",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "author": "angular",
+    "homepage": "https://github.com/angular/angular#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 87,
+    "name": "@angular/forms",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "author": "angular",
+    "homepage": "https://github.com/angular/angular#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 88,
+    "name": "@angular/language-service",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "author": "angular",
+    "homepage": "https://github.com/angular/angular#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 89,
+    "name": "@angular/platform-browser",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "author": "angular",
+    "homepage": "https://github.com/angular/angular#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 90,
+    "name": "@angular/platform-browser-dynamic",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "author": "angular",
+    "homepage": "https://github.com/angular/angular#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 91,
+    "name": "@angular/pwa",
+    "version": "0.803.19",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular-cli.git",
+    "author": "Angular Authors",
+    "homepage": "https://github.com/angular/angular-cli",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 92,
+    "name": "parse5-html-rewriting-stream",
+    "version": "5.1.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/inikulin/parse5.git",
+    "author": "Ivan Nikulin",
+    "homepage": "https://github.com/inikulin/parse5",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 93,
+    "name": "@angular/router",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "author": "angular",
+    "homepage": "https://github.com/angular/angular/tree/master/packages/router",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 94,
+    "name": "@angular/service-worker",
+    "version": "8.2.14",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/angular.git",
+    "author": "angular",
+    "homepage": "https://github.com/angular/angular#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 95,
+    "name": "@types/jasmine",
+    "version": "3.3.16",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 96,
+    "name": "@types/jasminewd2",
+    "version": "2.0.8",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 97,
+    "name": "@types/node",
+    "version": "8.9.5",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 98,
+    "name": "codelyzer",
+    "version": "5.2.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/mgechev/codelyzer.git",
+    "author": "Minko Gechev",
+    "homepage": "https://github.com/mgechev/codelyzer#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 99,
+    "name": "app-root-path",
+    "version": "2.2.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/inxilpro/node-app-root-path.git",
+    "author": "Chris Morrell",
+    "homepage": "https://github.com/inxilpro/node-app-root-path",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 100,
+    "name": "aria-query",
+    "version": "3.0.0",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/A11yance/aria-query.git",
+    "author": "Jesse Beach",
+    "homepage": "https://github.com/A11yance/aria-query#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 101,
+    "name": "axobject-query",
+    "version": "2.0.2",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/A11yance/axobject-query.git",
+    "author": "Jesse Beach",
+    "homepage": "https://github.com/A11yance/axobject-query#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 102,
+    "name": "css-selector-tokenizer",
+    "version": "0.7.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/css-modules/css-selector-tokenizer.git",
+    "author": "Tobias Koppers @sokra",
+    "homepage": "https://github.com/css-modules/css-selector-tokenizer",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 103,
+    "name": "cssauron",
+    "version": "1.4.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/chrisdickinson/cssauron.git",
+    "author": "Chris Dickinson",
+    "homepage": "https://github.com/chrisdickinson/cssauron#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 104,
+    "name": "damerau-levenshtein",
+    "version": "1.0.5",
+    "license": "BSD 2-Clause \"Simplified\" License (BSD-2-Clause)",
+    "repository": "git+https://github.com/tad-lispy/node-damerau-levenshtein.git",
+    "author": "The Spanish Inquisition",
+    "homepage": "https://github.com/tad-lispy/node-damerau-levenshtein#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 105,
+    "name": "semver-dsl",
+    "version": "1.0.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/mgechev/semver-dsl.git",
+    "author": "Minko Gechev",
+    "homepage": "https://github.com/mgechev/semver-dsl#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 106,
+    "name": "source-map",
+    "version": "0.5.7",
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)",
+    "repository": "git+ssh://git@github.com/mozilla/source-map.git",
+    "author": "Nick Fitzgerald",
+    "homepage": "https://github.com/mozilla/source-map",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 107,
+    "name": "sprintf-js",
+    "version": "1.1.2",
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)",
+    "repository": "git+https://github.com/alexei/sprintf.js.git",
+    "author": "Alexandru Mărășteanu",
+    "homepage": "https://github.com/alexei/sprintf.js#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 108,
+    "name": "jasmine-core",
+    "version": "3.4.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/jasmine/jasmine.git",
+    "homepage": "https://jasmine.github.io",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 109,
+    "name": "jasmine-spec-reporter",
+    "version": "4.2.1",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/bcaudan/jasmine-spec-reporter.git",
+    "author": "Bastien Caudan",
+    "homepage": "https://github.com/bcaudan/jasmine-spec-reporter",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 110,
+    "name": "colors",
+    "version": "1.1.2",
+    "license": "MIT License (MIT)",
+    "repository": "git+ssh://git@github.com/Marak/colors.js.git",
+    "author": "Marak Squires",
+    "homepage": "https://github.com/Marak/colors.js",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 111,
+    "name": "karma",
+    "version": "4.1.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/karma-runner/karma.git",
+    "author": "Vojta Jína",
+    "homepage": "http://karma-runner.github.io/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 112,
+    "name": "bluebird",
+    "version": "3.7.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/petkaantonov/bluebird.git",
+    "author": "Petka Antonov",
+    "homepage": "https://github.com/petkaantonov/bluebird",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 113,
+    "name": "body-parser",
+    "version": "1.19.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/expressjs/body-parser.git",
+    "homepage": "https://github.com/expressjs/body-parser#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 114,
+    "name": "braces",
+    "version": "2.3.2",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/micromatch/braces.git",
+    "author": "Jon Schlinkert",
+    "homepage": "https://github.com/micromatch/braces",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 115,
+    "name": "chokidar",
+    "version": "2.1.8",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/paulmillr/chokidar.git",
+    "author": "Paul Miller",
+    "homepage": "https://github.com/paulmillr/chokidar",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 116,
+    "name": "connect",
+    "version": "3.7.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/senchalabs/connect.git",
+    "author": "TJ Holowaychuk",
+    "homepage": "https://github.com/senchalabs/connect#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 117,
+    "name": "core-js",
+    "version": "2.6.10",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/zloirock/core-js.git",
+    "homepage": "https://github.com/zloirock/core-js#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 118,
+    "name": "di",
+    "version": "0.0.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/vojtajina/node-di.git",
+    "author": "Vojta Jina",
+    "homepage": "https://github.com/vojtajina/node-di#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 119,
+    "name": "dom-serialize",
+    "version": "2.2.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/webmodules/dom-serialize.git",
+    "author": "Nathan Rajlich",
+    "homepage": "https://github.com/webmodules/dom-serialize",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 120,
+    "name": "flatted",
+    "version": "2.0.1",
+    "license": "ISC License (ISC)",
+    "repository": "git+https://github.com/WebReflection/flatted.git",
+    "author": "Andrea Giammarchi",
+    "homepage": "https://github.com/WebReflection/flatted#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 121,
+    "name": "graceful-fs",
+    "version": "4.2.3",
+    "license": "ISC License (ISC)",
+    "repository": "git+https://github.com/isaacs/node-graceful-fs.git",
+    "homepage": "https://github.com/isaacs/node-graceful-fs#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 122,
+    "name": "http-proxy",
+    "version": "1.18.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/http-party/node-http-proxy.git",
+    "author": "Charlie Robbins",
+    "homepage": "https://github.com/http-party/node-http-proxy#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 123,
+    "name": "isbinaryfile",
+    "version": "3.0.3",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/gjtorikian/isBinaryFile.git",
+    "homepage": "https://github.com/gjtorikian/isBinaryFile#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 124,
+    "name": "lodash",
+    "version": "4.17.15",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/lodash/lodash.git",
+    "author": "John-David Dalton",
+    "homepage": "https://lodash.com/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 125,
+    "name": "log4js",
+    "version": "4.5.1",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/log4js-node/log4js-node.git",
+    "author": "Gareth Jones",
+    "homepage": "https://log4js-node.github.io/log4js-node/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 126,
+    "name": "mime",
+    "version": "2.4.4",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/broofa/node-mime.git",
+    "author": "Robert Kieffer",
+    "homepage": "https://github.com/broofa/node-mime#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 127,
+    "name": "optimist",
+    "version": "0.6.1",
+    "license": "unknown (MIT/X11)",
+    "repository": "git+ssh://git@github.com/substack/node-optimist.git",
+    "author": "James Halliday",
+    "homepage": "https://github.com/substack/node-optimist#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 128,
+    "name": "qjobs",
+    "version": "1.2.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/franck34/qjobs.git",
+    "author": "Franck TABARY",
+    "homepage": "https://github.com/franck34/qjobs#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 129,
+    "name": "range-parser",
+    "version": "1.2.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/jshttp/range-parser.git",
+    "author": "TJ Holowaychuk",
+    "homepage": "https://github.com/jshttp/range-parser#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 130,
+    "name": "rimraf",
+    "version": "2.7.1",
+    "license": "ISC License (ISC)",
+    "repository": "git://github.com/isaacs/rimraf.git",
+    "author": "Isaac Z. Schlueter",
+    "homepage": "https://github.com/isaacs/rimraf#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 131,
+    "name": "safe-buffer",
+    "version": "5.1.2",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/feross/safe-buffer.git",
+    "author": "Feross Aboukhadijeh",
+    "homepage": "https://github.com/feross/safe-buffer",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 132,
+    "name": "socket.io",
+    "version": "2.1.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/socketio/socket.io.git",
+    "homepage": "https://github.com/socketio/socket.io#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 133,
+    "name": "source-map",
+    "version": "0.6.1",
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)",
+    "repository": "git+ssh://git@github.com/mozilla/source-map.git",
+    "author": "Nick Fitzgerald",
+    "homepage": "https://github.com/mozilla/source-map",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 134,
+    "name": "tmp",
+    "version": "0.0.33",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/raszi/node-tmp.git",
+    "author": "KARASZI István",
+    "homepage": "http://github.com/raszi/node-tmp",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 135,
+    "name": "useragent",
+    "version": "2.3.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+ssh://git@github.com/3rd-Eden/useragent.git",
+    "author": "Arnout Kazemier",
+    "homepage": "https://github.com/3rd-Eden/useragent#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 136,
+    "name": "karma-chrome-launcher",
+    "version": "2.2.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/karma-runner/karma-chrome-launcher.git",
+    "author": "Vojta Jina",
+    "homepage": "https://github.com/karma-runner/karma-chrome-launcher#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 137,
+    "name": "fs-access",
+    "version": "1.0.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/sindresorhus/fs-access.git",
+    "author": "Sindre Sorhus",
+    "homepage": "https://github.com/sindresorhus/fs-access#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 138,
+    "name": "which",
+    "version": "1.3.1",
+    "license": "ISC License (ISC)",
+    "repository": "git://github.com/isaacs/node-which.git",
+    "author": "Isaac Z. Schlueter",
+    "homepage": "https://github.com/isaacs/node-which#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 139,
+    "name": "karma-coverage-istanbul-reporter",
+    "version": "2.0.6",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/mattlewis92/karma-coverage-istanbul-reporter.git",
+    "author": "Matt Lewis",
+    "homepage": "https://github.com/mattlewis92/karma-coverage-istanbul-reporter#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 140,
+    "name": "istanbul-api",
+    "version": "2.1.6",
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)",
+    "repository": "git+ssh://git@github.com/istanbuljs/istanbuljs.git",
+    "author": "Krishnan Anantheswaran",
+    "homepage": "https://istanbul.js.org/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 141,
+    "name": "karma-jasmine",
+    "version": "2.0.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/karma-runner/karma-jasmine.git",
+    "author": "Vojta Jina",
+    "homepage": "https://github.com/karma-runner/karma-jasmine#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 142,
+    "name": "karma-jasmine-html-reporter",
+    "version": "1.4.2",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/dfederm/karma-jasmine-html-reporter.git",
+    "homepage": "https://github.com/dfederm/karma-jasmine-html-reporter#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 143,
+    "name": "license-ls",
+    "version": "1.4.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/morficus/license-ls.git",
+    "author": "Maurice Williams",
+    "homepage": "https://github.com/morficus/license-ls#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 144,
+    "name": "cross-spawn",
+    "version": "7.0.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+ssh://git@github.com/moxystudio/node-cross-spawn.git",
+    "author": "André Cruz",
+    "homepage": "https://github.com/moxystudio/node-cross-spawn",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 145,
+    "name": "json2csv",
+    "version": "4.5.4",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/zemirco/json2csv.git",
+    "author": "Mirco Zeiss",
+    "homepage": "https://github.com/zemirco/json2csv#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 146,
+    "name": "jstoxml",
+    "version": "1.6.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/davidcalhoun/jstoxml.git",
+    "author": "David Calhoun",
+    "homepage": "http://github.com/davidcalhoun/jstoxml",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 147,
+    "name": "libnpm",
+    "version": "3.0.1",
+    "license": "ISC License (ISC)",
+    "repository": "git+https://github.com/npm/libnpm.git",
+    "author": "Kat Marchán",
+    "homepage": "https://github.com/npm/libnpm#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 148,
+    "name": "ora",
+    "version": "3.4.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/sindresorhus/ora.git",
+    "author": "Sindre Sorhus",
+    "homepage": "https://github.com/sindresorhus/ora#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 149,
+    "name": "spdx-expression-parse",
+    "version": "3.0.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/jslicense/spdx-expression-parse.js.git",
+    "author": "Kyle E. Mitchell",
+    "homepage": "https://github.com/jslicense/spdx-expression-parse.js#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 150,
+    "name": "spdx-license-list",
+    "version": "6.1.0",
+    "license": "Creative Commons Zero v1.0 Universal (CC0-1.0)",
+    "repository": "git+https://github.com/sindresorhus/spdx-license-list.git",
+    "author": "Sindre Sorhus",
+    "homepage": "https://github.com/sindresorhus/spdx-license-list#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 151,
+    "name": "table",
+    "version": "5.4.6",
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)",
+    "repository": "git+https://github.com/gajus/table.git",
+    "author": "Gajus Kuizinas",
+    "homepage": "https://github.com/gajus/table#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 152,
+    "name": "yargs",
+    "version": "14.2.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/yargs/yargs.git",
+    "homepage": "https://yargs.js.org/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 153,
+    "name": "ngx-onsenui",
+    "version": "7.0.0",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "https://github.com/OnsenUI/OnsenUI/tree/master/bindings/angular2",
+    "author": "Mitsunori Kubota",
+    "homepage": "https://onsen.io/angular2/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 154,
+    "name": "onsenui",
+    "version": "2.10.10",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/OnsenUI/OnsenUI.git",
+    "homepage": "https://onsen.io/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 155,
+    "name": "@onsenui/custom-elements",
+    "version": "1.0.0",
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)",
+    "repository": "git+https://github.com/OnsenUI/custom-elements.git",
+    "author": "The Polymer Authors",
+    "homepage": "http://webcomponents.org",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 156,
+    "name": "@onsenui/fastclick",
+    "version": "1.1.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/OnsenUI/fastclick.git",
+    "author": "Rowan Beentje",
+    "homepage": "https://github.com/OnsenUI/fastclick",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 157,
+    "name": "core-js",
+    "version": "2.6.10",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/zloirock/core-js.git",
+    "homepage": "https://github.com/zloirock/core-js#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 158,
+    "name": "gulp-protractor",
+    "version": "4.1.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/mllrsohn/gulp-protractor.git",
+    "author": "Steffen Müller",
+    "homepage": "https://github.com/mllrsohn/gulp-protractor",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 159,
+    "name": "protractor",
+    "version": "5.4.2",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/angular/protractor.git",
+    "author": "Julie Ralph",
+    "homepage": "https://github.com/angular/protractor",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 160,
+    "name": "@types/q",
+    "version": "0.0.32",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "author": "Barrie Nemetchek",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 161,
+    "name": "@types/selenium-webdriver",
+    "version": "3.0.16",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 162,
+    "name": "blocking-proxy",
+    "version": "1.0.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/angular/jasminewd.git",
+    "homepage": "https://github.com/angular/blocking-proxy",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 163,
+    "name": "browserstack",
+    "version": "1.5.3",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/scottgonzalez/node-browserstack.git",
+    "author": "Scott González",
+    "homepage": "https://github.com/scottgonzalez/node-browserstack",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 164,
+    "name": "chalk",
+    "version": "1.1.3",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/chalk/chalk.git",
+    "homepage": "https://github.com/chalk/chalk#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 165,
+    "name": "jasmine",
+    "version": "2.8.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/jasmine/jasmine-npm.git",
+    "homepage": "http://jasmine.github.io/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 166,
+    "name": "jasminewd2",
+    "version": "2.2.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/angular/jasminewd.git",
+    "author": "Julie Ralph",
+    "homepage": "https://github.com/angular/jasminewd",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 167,
+    "name": "q",
+    "version": "1.4.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/kriskowal/q.git",
+    "author": "Kris Kowal",
+    "homepage": "https://github.com/kriskowal/q",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 168,
+    "name": "saucelabs",
+    "version": "1.5.0",
+    "license": "unknown ()",
+    "repository": "git://github.com/holidayextras/node-saucelabs.git",
+    "author": "Dan Jenkins",
+    "homepage": "https://github.com/holidayextras/node-saucelabs",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 169,
+    "name": "selenium-webdriver",
+    "version": "3.6.0",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/SeleniumHQ/selenium.git",
+    "homepage": "https://github.com/SeleniumHQ/selenium",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 170,
+    "name": "source-map-support",
+    "version": "0.4.18",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/evanw/node-source-map-support.git",
+    "homepage": "https://github.com/evanw/node-source-map-support#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 171,
+    "name": "webdriver-js-extender",
+    "version": "2.1.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/angular/webdriver-js-extender.git",
+    "author": "Sammy Jelin",
+    "homepage": "https://github.com/angular/webdriver-js-extender#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 172,
+    "name": "webdriver-manager",
+    "version": "12.1.7",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/angular/webdriver-manager.git",
+    "author": "Craig Nishina",
+    "homepage": "https://github.com/angular/webdriver-manager#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 173,
+    "name": "rxjs",
+    "version": "6.4.0",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/reactivex/rxjs.git",
+    "author": "Ben Lesh",
+    "homepage": "https://github.com/ReactiveX/RxJS",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 174,
+    "name": "ts-node",
+    "version": "7.0.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/TypeStrong/ts-node.git",
+    "author": "Blake Embrey",
+    "homepage": "https://github.com/TypeStrong/ts-node",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 175,
+    "name": "arrify",
+    "version": "1.0.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/sindresorhus/arrify.git",
+    "author": "Sindre Sorhus",
+    "homepage": "https://github.com/sindresorhus/arrify#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 176,
+    "name": "buffer-from",
+    "version": "1.1.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/LinusU/buffer-from.git",
+    "homepage": "https://github.com/LinusU/buffer-from#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 177,
+    "name": "diff",
+    "version": "3.5.0",
+    "license": "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)",
+    "repository": "git://github.com/kpdecker/jsdiff.git",
+    "homepage": "https://github.com/kpdecker/jsdiff#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 178,
+    "name": "make-error",
+    "version": "1.3.5",
+    "license": "ISC License (ISC)",
+    "repository": "git://github.com/JsCommunity/make-error.git",
+    "author": "Julien Fontanet",
+    "homepage": "https://github.com/JsCommunity/make-error",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 179,
+    "name": "mkdirp",
+    "version": "0.5.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/substack/node-mkdirp.git",
+    "author": "James Halliday",
+    "homepage": "https://github.com/substack/node-mkdirp#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 180,
+    "name": "yn",
+    "version": "2.0.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/sindresorhus/yn.git",
+    "author": "Sindre Sorhus",
+    "homepage": "https://github.com/sindresorhus/yn#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 181,
+    "name": "tslib",
+    "version": "1.10.0",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/Microsoft/tslib.git",
+    "author": "Microsoft Corp.",
+    "homepage": "http://typescriptlang.org/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 182,
+    "name": "tslint",
+    "version": "5.15.0",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/palantir/tslint.git",
+    "homepage": "https://palantir.github.io/tslint",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 183,
+    "name": "babel-code-frame",
+    "version": "6.26.0",
+    "license": "MIT License (MIT)",
+    "repository": "https://github.com/babel/babel/tree/master/packages/babel-code-frame",
+    "author": "Sebastian McKenzie",
+    "homepage": "https://babeljs.io/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 184,
+    "name": "builtin-modules",
+    "version": "1.1.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/sindresorhus/builtin-modules.git",
+    "author": "Sindre Sorhus",
+    "homepage": "https://github.com/sindresorhus/builtin-modules#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 185,
+    "name": "chalk",
+    "version": "2.4.2",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/chalk/chalk.git",
+    "homepage": "https://github.com/chalk/chalk#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 186,
+    "name": "commander",
+    "version": "2.20.3",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/tj/commander.js.git",
+    "author": "TJ Holowaychuk",
+    "homepage": "https://github.com/tj/commander.js#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 187,
+    "name": "js-yaml",
+    "version": "3.13.1",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/nodeca/js-yaml.git",
+    "author": "Vladimir Zapparov",
+    "homepage": "https://github.com/nodeca/js-yaml",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 188,
+    "name": "resolve",
+    "version": "1.12.0",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/browserify/resolve.git",
+    "author": "James Halliday",
+    "homepage": "https://github.com/browserify/resolve#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 189,
+    "name": "semver",
+    "version": "5.7.1",
+    "license": "ISC License (ISC)",
+    "repository": "git+https://github.com/npm/node-semver.git",
+    "homepage": "https://github.com/npm/node-semver#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 190,
+    "name": "tsutils",
+    "version": "2.29.0",
+    "license": "MIT License (MIT)",
+    "repository": "git+https://github.com/ajafff/tsutils.git",
+    "author": "Klaus Meinhardt",
+    "homepage": "https://github.com/ajafff/tsutils#readme",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 191,
+    "name": "typescript",
+    "version": "3.5.3",
+    "license": "Apache License 2.0 (Apache-2.0)",
+    "repository": "git+https://github.com/Microsoft/TypeScript.git",
+    "author": "Microsoft Corp.",
+    "homepage": "https://www.typescriptlang.org/",
+    "dependencyLevel": "production"
+  },
+  {
+    "id": 192,
+    "name": "zone.js",
+    "version": "0.9.1",
+    "license": "MIT License (MIT)",
+    "repository": "git://github.com/angular/zone.js.git",
+    "author": "Brian Ford",
+    "homepage": "https://github.com/angular/zone.js#readme",
+    "dependencyLevel": "production"
+  }
+]

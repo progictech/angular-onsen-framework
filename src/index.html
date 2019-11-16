@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=UTF-8>
+  <title>Angular2 bindings for Onsen UI</title>
+
+  <script>
+      window.setImmediate = window.setTimeout;
+  </script>
+
+  <style>
+    p { padding: 15px; }
+    .page__background { background: white; }
+    .loading { font-size: 24px; text-align: center; margin: 200px auto 0; }
+  </style>
+  <base href="/">
+</head>
+<body>
+
+<app-root>
+  <p class="loading">
+    <ngx-loading>
+      Loading...
+    </ngx-loading>
+  </p>
+</app-root>
+
+<script>
+    location.hash = location.hash || '/home';
+</script>
+</body>
+</html>
