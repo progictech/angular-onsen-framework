@@ -1,5 +1,5 @@
 dist: xenial
-sudo: false
+os: linux
 
 language: node_js
 node_js:
@@ -19,7 +19,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN
+  token: $GITHUB_TOKEN
   local_dir: dist/angular-pwa-starter
   on:
     branch: master
