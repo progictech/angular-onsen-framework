@@ -7,7 +7,7 @@ import {environment} from '../environments/environment';
 import {OnsenModule} from 'ngx-onsenui';
 import {HomeComponent} from './home/home.component';
 import {RouterModule} from '@angular/router';
-import appRoutes from './app.router';
+import {Routing} from './app.router';
 import {AboutComponent} from './about/about.component';
 import {MenuComponent} from './menu/menu.component';
 import { HeaderComponent } from './header/header.component';
@@ -24,7 +24,7 @@ import { HeaderComponent } from './header/header.component';
     BrowserModule,
     OnsenModule,
     ServiceWorkerModule.register('ngsw-worker.js', {enabled: environment.production}),
-    RouterModule.forRoot(appRoutes)
+    Routing
   ],
   providers: [],
   entryComponents:[

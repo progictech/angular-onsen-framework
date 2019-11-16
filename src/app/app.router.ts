@@ -1,5 +1,5 @@
 import {HomeComponent} from './home/home.component';
-import {Routes} from '@angular/router';
+import {RouterModule, Routes} from '@angular/router';
 import {AboutComponent} from './about/about.component';
 
 const appRoutes: Routes = [
@@ -16,4 +16,4 @@ const appRoutes: Routes = [
     component: AboutComponent
   }
 ];
-export default appRoutes;
+export const Routing = RouterModule.forRoot(appRoutes);
