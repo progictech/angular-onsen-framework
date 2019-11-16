@@ -17,11 +17,12 @@ script:
   - npm run build
 
 deploy:
-  provider: pages
+  provider: pages:git
   skip_cleanup: true
   token: $GITHUB_TOKEN
   local_dir: dist/angular-pwa-starter
   verbose: true
+  edge: true
   keep_history: true
   on:
     branch: master
