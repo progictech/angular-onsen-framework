@@ -17,12 +17,5 @@ script:
   - npm run build
 
 deploy:
-  provider: pages:git
-  skip_cleanup: true
-  token: $GITHUB_TOKEN
-  local_dir: dist/angular-pwa-starter
-  verbose: true
-  edge: true
-  keep_history: true
-  on:
-    branch: master
+  provider: firebase
+  token: $FIREBASE_TOKEN
