@@ -16,6 +16,10 @@ script:
   - npm run genLicense
   - npm run build
   - ls
+  - cd dist
+  - ls
+  - cd angular-pwa-starter
+  - ls
 
 deploy:
   provider: firebase
