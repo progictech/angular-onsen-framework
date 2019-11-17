@@ -23,7 +23,7 @@ import { HeaderComponent } from './header/header.component';
   imports: [
     BrowserModule,
     OnsenModule,
-    ServiceWorkerModule.register('ngsw-worker.js', {enabled: environment.production}),
+    ServiceWorkerModule.register('./ngsw-worker.js', {enabled: environment.production}),
     Routing
   ],
   providers: [],
