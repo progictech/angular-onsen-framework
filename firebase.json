@@ -1,5 +1,11 @@
 {
   "hosting": {
+    "public": "dist/angular-pwa-starter",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
     "rewrites": [
       {
         "source": "**",
