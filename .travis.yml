@@ -15,6 +15,7 @@ install:
 script:
   - npm run genLicense
   - npm run build
+  - ls
 
 deploy:
   provider: firebase
