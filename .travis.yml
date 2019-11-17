@@ -20,3 +20,4 @@ deploy:
   provider: firebase
   token: $FIREBASE_TOKEN
   project: "angular-onsen-framework"
+  skip_cleanup: true
